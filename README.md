@@ -1,4 +1,4 @@
-# Design-OLTP-Database
+# Design OLTP Database using MySQL
 
 Objective: 
 
